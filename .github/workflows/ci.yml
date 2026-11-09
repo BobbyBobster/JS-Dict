@@ -6,7 +6,6 @@ on:
             - main
             - 'update_ci'
         paths-ignore:
-            - ".github/**"
             - "android/**"
             - "assets/**"
             - "metadata/**"
